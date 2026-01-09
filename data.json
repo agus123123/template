@@ -1,0 +1,27 @@
+{
+  "profile": {
+    "image": "https://avatars.githubusercontent.com/u/12345678?v=4",
+    "name": "Agus Developer",
+    "caption": "Fullstack Developer | Web & System Architect"
+  },
+  "links": [
+    {
+      "title": "GitHub",
+      "description": "Source code & open source project",
+      "url": "https://github.com/username",
+      "image": "https://cdn-icons-png.flaticon.com/512/733/733553.png"
+    },
+    {
+      "title": "LinkedIn",
+      "description": "Professional profile",
+      "url": "https://linkedin.com/in/username",
+      "image": "https://cdn-icons-png.flaticon.com/512/174/174857.png"
+    },
+    {
+      "title": "Portfolio",
+      "description": "Project dan studi kasus",
+      "url": "https://yourdomain.com",
+      "image": "https://cdn-icons-png.flaticon.com/512/841/841364.png"
+    }
+  ]
+}
