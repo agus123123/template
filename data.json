@@ -1,27 +1,15 @@
 {
   "profile": {
     "image": "https://raw.githubusercontent.com/agus123123/template/refs/heads/main/IMG_0829.JPG",
-    "name": "AG SEMESTA",
+    "name": "Agus Purwanto",
     "caption": "Fullstack Developer | Web & System Architect"
   },
   "links": [
     {
-      "title": "GitHub",
-      "description": "Source code & open source project",
-      "url": "https://github.com/username",
-      "image": "https://cdn-icons-png.flaticon.com/512/733/733553.png"
-    },
-    {
-      "title": "LinkedIn",
-      "description": "Professional profile",
-      "url": "https://linkedin.com/in/username",
-      "image": "https://cdn-icons-png.flaticon.com/512/174/174857.png"
-    },
-    {
-      "title": "Portfolio",
-      "description": "Project dan studi kasus",
-      "url": "https://yourdomain.com",
-      "image": "https://cdn-icons-png.flaticon.com/512/841/841364.png"
+      "title": "Instagram",
+      "description": "This is My Instagram",
+      "url": "https://instagram.com/_aguspurwnto",
+      "image": "https://cdn-icons-png.freepik.com/512/3955/3955027.png?ga=GA1.1.1972796506.1763205796"
     }
   ]
 }
