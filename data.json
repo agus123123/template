@@ -2,14 +2,32 @@
   "profile": {
     "image": "https://raw.githubusercontent.com/agus123123/template/refs/heads/main/IMG_0829.JPG",
     "name": "Agus Purwanto",
-    "caption": "Fullstack Developer | Web & System Architect"
+    "caption": "Junior Fullstack Developer | Banker Officer"
   },
   "links": [
     {
       "title": "Instagram",
-      "description": "This is My Instagram",
+      "description": "Follow Instagram saya",
       "url": "https://instagram.com/_aguspurwnto",
       "image": "https://cdn-icons-png.freepik.com/512/3955/3955027.png?ga=GA1.1.1972796506.1763205796"
+    },
+    {
+      "title": "Youtube",
+      "description": "Lihat akun Youtube ku",
+      "url": "https://www.youtube.com/@rengrowofficials",
+      "image": "https://cdn-icons-png.freepik.com/512/167/167310.png?ga=GA1.1.1972796506.1763205796"
+    },
+    {
+      "title": "Github",
+      "description": "Lihat source porject saya disini",
+      "url": "https://www.github.com/agus123123",
+      "image": "https://cdn-icons-png.freepik.com/512/25/25231.png?ga=GA1.1.1972796506.1763205796"
+    },
+    {
+      "title": "Website Portfolio",
+      "description": "Lihat portfolio saya disini",
+      "url": "https://www.aguspurwanto.cloud/Portfolio",
+      "image": "https://cdn-icons-png.freepik.com/512/14376/14376457.png?ga=GA1.1.1972796506.1763205796"
     }
   ]
 }
